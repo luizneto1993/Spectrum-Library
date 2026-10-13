@@ -1,0 +1,15 @@
+{
+  "name": "Spectrum Library",
+  "payloads": [
+    {
+      "name": "Spectrum Library",
+      "filename": "SpectrumLibrary_1.4.8.elf",
+      "url": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.8/SpectrumLibrary_1.4.8.elf",
+      "description": "Spectrum Library is a lightweight native PlayStation 5 content manager designed to organize and deliver supported game files through a simple, clean, and user-friendly interface. Its streamlined library brings together categories, cover artwork, file details, download controls, and installation status, making it easier to browse available content and manage downloads from one place.",
+      "version": "v1.4.8",
+      "category": "Utilities",
+      "checksum": "5d1372d48f76167e3f9e24b335cf571ea6e4b3960e6b7202d2802b0f78c3a519",
+      "receiveProtocol": 1
+    }
+  ]
+}
